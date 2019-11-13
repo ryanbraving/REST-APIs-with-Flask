@@ -4,8 +4,13 @@
 
 ```
 pip install flask
-python app.py
+pip install Flask-RESTful
+pip install Flask-JWT
+pip install Flask-SQLAlchemy
 ```
+##Running
+go to the section, e.g Section6/code and run:
+python app.py 
 
 ## Description
 
